@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Artists</string>
+
+    <array name="genres">
+        <item>Rock</item>
+        <item>Classical</item>
+        <item>Jazz</item>
+        <item>Party</item>
+    </array>
+</resources>

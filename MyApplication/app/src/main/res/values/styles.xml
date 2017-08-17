@@ -1,0 +1,23 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <style name="SignupTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">#6e5276</item>
+        <item name="colorPrimaryDark">#d5b9dd</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <style name="UserInfoTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <item name="colorPrimary">#0b5e56</item>
+        <item name="colorPrimaryDark">#1aa3a3</item>
+    </style>
+
+</resources>
